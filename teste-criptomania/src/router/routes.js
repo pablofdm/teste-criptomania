@@ -2,7 +2,6 @@ import Vue from 'vue'
 import VueRouter from 'vue-router'
 
 import Main from '../components/Main.vue'
-// import Post from '../components/Post.vue'
 
 Vue.use(VueRouter)
 
